@@ -16,7 +16,7 @@ st.title ("ABHAYAGIRI MONASTERY")
 intro1 = read_file("./data/intro1.txt")
 st.write(intro1)
 
-images = ['./images/1.jpg', './images/2.JPG']
+images = ['./images/1.jpg', './images/2.jpg']
 # st.image(images, use_column_width=True, width=80)
 
 col1, col2 = st.columns(2)
